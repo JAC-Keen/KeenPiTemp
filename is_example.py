@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 #####
 # This is a custom 'getting started' script, made with care for jeremykeen@gmail.com.
 # If you have any questions, please email us! support@initialstate.com
